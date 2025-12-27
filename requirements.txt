@@ -1,0 +1,5 @@
+# GitHub 自动点 Star 脚本依赖包
+
+# DrissionPage - 基于 Python 的网页自动化工具
+# 支持 Chromium 内核浏览器的自动化操作
+DrissionPage>=4.0.0
